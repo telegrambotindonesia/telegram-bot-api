@@ -6,7 +6,7 @@ Informasi tentang ini ada di [https://core.telegram.org/bots/api#using-a-local-b
 
 ## Kelebihan
 
-- **Tidak ada perubahan coding** pada bot API (tidak seperti bot MTProto)
+- **Tidak ada perubahan code** pada bot API (tidak seperti bot MTProto)
 - **Download file tanpa batas** (normal dibatasi hanya max `20` MB)
 - **Upload file hingga 2000 MB** (normal dibatas max `50` MB)
 - Upload file menggunakan path dan skema URI file lokal.
@@ -68,6 +68,12 @@ Untuk menjalankan:
 - zlib
 
 Linux (Ubuntu): `sudo apt install zlib1g-dev libssl-dev`
+
+### Windows
+
+
+> "Saya sudah coba berhasil, namun untuk windows sendiri harus ada beberapa file yang harus di include kan antara lain adalah `zlib1.dll`, `libssl-1_1-x64.dll`, dan `libcrypto-1_1-x64.dll` untuk menjalan file executable file `telegram-bot-api`"
+>> -- [Hanif Dwy Putra S](https://github.com/hansputera)
 
 ### Kontribusi
 
