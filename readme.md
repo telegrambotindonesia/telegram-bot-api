@@ -77,10 +77,11 @@ Linux (Ubuntu): `sudo apt install zlib1g-dev libssl-dev`
 
 ### Kontribusi
 
-- Silakan build sesuai petunjuk caranya [https://tdlib.github.io/telegram-bot-api/build.html](https://tdlib.github.io/telegram-bot-api/build.html).
+- Build sesuai petunjuk caranya [https://tdlib.github.io/telegram-bot-api/build.html](https://tdlib.github.io/telegram-bot-api/build.html).
 - Buat fork
 - Bikin folder sesuai OS dan tanggal build
 - Beri file `readme.md` untuk menjelaskan
+- Silakan Pull Request
 
 Sesuai contoh folder hasil build ya.
 
