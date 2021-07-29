@@ -27,7 +27,7 @@ Secara default dijalankan pada mode `--http-port` port `8081`
 
 ### Contoh
 
-Pada Linux Ubuntu 20.04:
+Pada Linux:
 
 ```bash
 ./telegram-bot-api --api-id=ID --api-hash=HASH --local \
@@ -79,5 +79,5 @@ Sesuai contoh folder hasil build ya.
 
 ## Mirror
 
-- Github
-- Gitlab
+- [Github](https://github.com/telegrambotindonesia/telegram-bot-api)
+- [Gitlab](https://gitlab.com/botindonesia/telegram-bot-api)
