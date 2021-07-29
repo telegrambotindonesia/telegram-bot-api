@@ -6,6 +6,7 @@ Informasi tentang ini ada di [https://core.telegram.org/bots/api#using-a-local-b
 
 ## Kelebihan
 
+- **Tidak ada perubahan coding** pada bot API (tidak seperti bot MTProto)
 - **Download file tanpa batas limit** (normal dibatasi hanya max 20 MB)
 - **Upload file hingga 2000 MB** (normal dibatas max 50MB)
 - Upload file menggunakan path dan skema URI file lokal.
