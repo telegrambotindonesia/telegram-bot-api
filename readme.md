@@ -6,14 +6,14 @@ Informasi tentang ini ada di [https://core.telegram.org/bots/api#using-a-local-b
 
 ## Kelebihan
 
-- Download file tanpa batas limit (normal dibatasi max 20 MB)
-- Upload file hingga 2000 MB.
+- **Download file tanpa batas limit** (normal dibatasi hanya max 20 MB)
+- **Upload file hingga 2000 MB** (normal dibatas max 50MB)
 - Upload file menggunakan path dan skema URI file lokal.
-- Menggunakan URL HTTP untuk webhook.
-- Bebas menggunakan alamat IP local pada webhook.
+- Bisa menggunakan URL **HTTP** untuk webhook (normal harus HTTPS).
+- Bebas menggunakan alamat `IP local` pada webhook.
 - Bebas menggunakan port pada webhook.
-- Set max_webhook_connections hingga 100.000.
-- Download file langsung ke path lokal asli pada field file_path dan tidak perlu mendownload ulang melalui request getFile.
+- Set `max_webhook_connections` hingga 100.000.
+- **Download berupa file asli yang langsung ke path lokal** (normal harus  mendownload ulang melalui request `getFile`).
 
 ## Penggunaan
 
